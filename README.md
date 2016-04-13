@@ -1,3 +1,3 @@
-# Tutorial
+# Project Code Academy
 
-This is my tutorial repository.
+The final project from Ruby, Code Academy.
